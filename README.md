@@ -8,8 +8,8 @@ This crawler is specifically developed to download news articles pertaining to t
 
 The crawler uses python's **[newspaper3k library](https://newspaper.readthedocs.io/en/latest/)**
 
-**Installation
-If you are on Debian / Ubuntu, install using the following:**
+### Installation</br>
+**If you are on Debian / Ubuntu, install using the following:**
 
 Install pip3 command needed to install newspaper3k package:
 > $ sudo apt-get install python3-pip</br>
